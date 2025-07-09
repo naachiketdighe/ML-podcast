@@ -1,0 +1,16 @@
+preprocessing/data/
+preprocessing/synthetic_data/
+preprocessing/.env
+# Data files
+data/
+*.json
+*.csv
+*.txt
+*.pkl
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+venv/
